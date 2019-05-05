@@ -1,0 +1,19 @@
+{
+  "name": "criador_de_meme",
+  "version": "1.0.0",
+  "description": "curso de reacte criador de mem",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devwilliamgois/criador_de_meme.git"
+  },
+  "author": "william gois",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devwilliamgois/criador_de_meme/issues"
+  },
+  "homepage": "https://github.com/devwilliamgois/criador_de_meme#readme"
+}
