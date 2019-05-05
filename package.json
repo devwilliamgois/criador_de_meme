@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/devwilliamgois/criador_de_meme/issues"
   },
-  "homepage": "https://github.com/devwilliamgois/criador_de_meme#readme"
+  "homepage": "https://github.com/devwilliamgois/criador_de_meme#readme",
+  "dependencies": {
+    "react-native": "^0.59.5"
+  }
 }
