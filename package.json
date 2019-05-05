@@ -1,6 +1,4 @@
 {
-<<<<<<< HEAD
-  "name": "criador_de_memes",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -21,26 +19,4 @@
   },
   "jest": {
     "preset": "react-native"
-=======
-  "name": "criador_de_meme",
-  "version": "1.0.0",
-  "description": "curso de reacte criador de mem",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/devwilliamgois/criador_de_meme.git"
-  },
-  "author": "william gois",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/devwilliamgois/criador_de_meme/issues"
-  },
-  "homepage": "https://github.com/devwilliamgois/criador_de_meme#readme",
-  "dependencies": {
-    "react-native": "^0.59.5"
->>>>>>> 818ba3399c7804f1bff6997a54d85fa75bfa2b42
   }
-}
